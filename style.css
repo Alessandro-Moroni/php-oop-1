@@ -1,0 +1,28 @@
+body{
+  background-image: url('https://c4.wallpaperflare.com/wallpaper/874/655/684/map-middle-earth-the-lord-of-the-rings-wallpaper-preview.jpg');
+  background-size: cover;
+
+}
+
+h1{
+  color: rgb(252, 166, 73);
+
+}
+.fellowship{
+  background-image: url('https://pad.mymovies.it/filmclub/2002/01/011/locandina.jpg');
+  background-size: cover;
+  color: rgb(252, 166, 73);
+  
+}
+.towers{
+  background-image: url('https://www.cinefacts.it/foto/h!il-signore-degli-anelli-le-due-torri-locandina-poster-cinefacts.jpg');
+  background-size: cover;
+  color: rgb(252, 166, 73);
+  
+}
+.king{
+  background-image: url('https://m.media-amazon.com/images/I/A1sEXy1gSlL._AC_UF1000,1000_QL80_DpWeblab_.jpg');
+  background-size: cover;
+  color: rgb(252, 166, 73);
+
+}
